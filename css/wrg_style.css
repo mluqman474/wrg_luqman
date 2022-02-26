@@ -443,8 +443,10 @@ button.add-to-bag{
 	margin-top: 35px;
 	transform: ;
 	margin-bottom: 30px;
+	transition: all 0.2s ease;
 }
 button.add-to-bag:hover{
+	background: #00a366;
 
 	}
 .prod-details li{
