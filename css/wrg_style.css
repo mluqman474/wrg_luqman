@@ -459,6 +459,7 @@ button.add-to-bag:hover{
 ul.prod-details li:last-child{
 	color: #545C5F;
 	font-size: 14px;
+	margin-top: 25px;
 }
 ul.prod-details li:last-child a{
 	font-weight: bold;
